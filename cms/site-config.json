@@ -1,0 +1,77 @@
+{
+ "site_key": "pelatihanwalet",
+ "domain": "pelatihanwalet.com",
+ "hosting": "github-pages",
+ "repo": "Website-Markas-Walet/pelatihanwalet.com",
+ "production_branch": "main",
+ "deploy_model": "push-to-main (no build step, instant live)",
+ "brand": {
+  "site_name": "Pelatihan Walet",
+  "theme": "Astra + Elementor",
+  "primary_color": "#f45a2a",
+  "neutral_dark": "#444654",
+  "fonts": [
+   "Inter",
+   "Roboto"
+  ],
+  "favicon": "/wp-content/uploads/2023/02/cropped-icon-training-walet-1-32x32.png",
+  "apple_touch_icon": "/wp-content/uploads/2023/02/cropped-icon-training-walet-1-180x180.png"
+ },
+ "analytics": {
+  "gtm": "GTM-MK5773B",
+  "tiktok_pixel": "CJA4IDBC77U5K7SPBH0G",
+  "fb_domain_verification": "8fky9cw1ml1hqv0cwmu87qrtjk1rmy"
+ },
+ "contact": {
+  "whatsapp": "6287725260196",
+  "whatsapp_url": "https://wa.me/6287725260196"
+ },
+ "menu_main": [
+  {
+   "label": "Home",
+   "url": "/"
+  },
+  {
+   "label": "Kontak Kami",
+   "url": "/kontak"
+  },
+  {
+   "label": "Kelebihan Kami",
+   "url": "/features"
+  },
+  {
+   "label": "Blog",
+   "url": "/blog"
+  },
+  {
+   "label": "Layanan",
+   "url": "/layanan"
+  }
+ ],
+ "menu_ecosystem": [
+  {
+   "label": "MarkasWalet",
+   "url": "http://markaswalet.com/"
+  },
+  {
+   "label": "NestOne",
+   "url": "http://nestone.id/"
+  },
+  {
+   "label": "ParfumWalet",
+   "url": "http://parfumwalet.com/"
+  },
+  {
+   "label": "GedungWalet",
+   "url": "http://gedungwalet.com/"
+  },
+  {
+   "label": "CuciWalet",
+   "url": "http://cuciwalet.com/"
+  },
+  {
+   "label": "SeminarMarkasWalet",
+   "url": "http://seminarmarkaswalet.com/"
+  }
+ ]
+}

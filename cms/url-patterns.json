@@ -1,0 +1,46 @@
+{
+ "notes": "Semua URL WAJIB dipertahankan. Campuran folder(pretty) & .html.",
+ "patterns": [
+  {
+   "type": "home",
+   "pattern": "/",
+   "render": "index.html"
+  },
+  {
+   "type": "page",
+   "pattern": "/{slug}",
+   "example": "/blog, /layanan, /features, /kontak, /about-us, /sample-page",
+   "render": "{slug}/index.html (pretty URL, folder + index.html)"
+  },
+  {
+   "type": "article",
+   "pattern": "/{slug}.html",
+   "example": "/tips-sukses-panen-sarang-walet-....html",
+   "render": "file .html di ROOT (bukan folder)",
+   "count": 13
+  },
+  {
+   "type": "kota",
+   "pattern": "/kota/{slug}",
+   "example": "/kota/training-walet-di-kota-makassar-sulawesi-selatan",
+   "render": "kota/{slug}/index.html  (ADA JUGA kota/{slug}.html duplikat)",
+   "count": 489,
+   "quirk": "tiap kota punya 2 file: folder/index.html DAN {slug}.html"
+  },
+  {
+   "type": "category",
+   "pattern": "/category/{cat}",
+   "example": "/category/bisnis-walet"
+  },
+  {
+   "type": "author",
+   "pattern": "/author/{name}",
+   "example": "/author/raulilma"
+  },
+  {
+   "type": "sitemap",
+   "pattern": "/*.xml",
+   "example": "sitemap_index.xml, post-sitemap.xml, page-sitemap.xml, kota1.xml..kota3.xml"
+  }
+ ]
+}
