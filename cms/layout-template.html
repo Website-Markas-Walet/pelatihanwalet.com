@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- ============ SEO TOKENS (diisi CMS per-halaman) ============ -->
+<title>{{PAGE_TITLE}}</title>
+<meta name="description" content="{{META_DESCRIPTION}}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="{{CANONICAL_URL}}">
+<meta property="og:type" content="{{OG_TYPE}}">
+<meta property="og:title" content="{{OG_TITLE}}">
+<meta property="og:description" content="{{OG_DESCRIPTION}}">
+<meta property="og:url" content="{{CANONICAL_URL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:site_name" content="Pelatihan Walet">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- ============ VERIFICATION ============ -->
+<meta name="facebook-domain-verification" content="8fky9cw1ml1hqv0cwmu87qrtjk1rmy">
+
+<!-- ============ FAVICON ============ -->
+<link rel="icon" href="/wp-content/uploads/2023/02/cropped-icon-training-walet-1-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2023/02/cropped-icon-training-walet-1-180x180.png">
+
+<!-- ============ FONTS (Inter + Roboto) ============ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+<!-- ============ GOOGLE TAG MANAGER ============ -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MK5773B');</script>
+
+<!-- ============ TIKTOK PIXEL ============ -->
+<script>!function(w,d,t){w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=d.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};ttq.load('CJA4IDBC77U5K7SPBH0G');ttq.page()}(window,document,'ttq');</script>
+
+<!-- ============ STYLES (bersih & ringan) ============ -->
+<style>
+:root{
+  --brand:#f45a2a; --brand-dark:#d8471b;
+  --ink:#1f2328; --muted:#5b6470; --line:#e6e8eb;
+  --bg:#ffffff; --bg-soft:#f8fafc; --footer:#1a1f24;
+  --wrap:1140px; --radius:10px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Roboto',system-ui,sans-serif;color:var(--ink);background:var(--bg);line-height:1.65;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4,.nav a,.btn{font-family:'Inter','Roboto',sans-serif}
+a{color:var(--brand);text-decoration:none}
+a:hover{color:var(--brand-dark)}
+img{max-width:100%;height:auto;display:block}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 20px}
+.btn{display:inline-block;background:var(--brand);color:#fff;font-weight:600;padding:10px 20px;border-radius:var(--radius);transition:background .15s}
+.btn:hover{background:var(--brand-dark);color:#fff}
+
+/* ---------- HEADER ---------- */
+.site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.header-inner{display:flex;align-items:center;justify-content:space-between;gap:20px;height:68px}
+.logo img{height:34px;width:auto}
+.nav{display:flex;align-items:center;gap:26px}
+.nav a{color:var(--ink);font-weight:500;font-size:15px;position:relative}
+.nav a:hover{color:var(--brand)}
+.nav a.cta{background:var(--brand);color:#fff;padding:8px 16px;border-radius:var(--radius)}
+.nav a.cta:hover{background:var(--brand-dark)}
+.nav-toggle{display:none}
+.hamburger{display:none;cursor:pointer;font-size:26px;line-height:1;color:var(--ink);background:none;border:0}
+
+/* ---------- CONTENT ---------- */
+main{min-height:60vh}
+.content{padding:40px 0}
+
+/* ---------- FOOTER ---------- */
+.site-footer{background:var(--footer);color:#c7cdd4;margin-top:60px;padding:48px 0 24px}
+.footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:36px}
+.site-footer h4{color:#fff;font-size:15px;letter-spacing:.02em;text-transform:uppercase;margin-bottom:16px}
+.site-footer a{color:#c7cdd4;font-size:15px}
+.site-footer a:hover{color:var(--brand)}
+.footer-eco li,.footer-links li{list-style:none;margin-bottom:9px}
+.footer-brand p{color:#9aa2ab;font-size:14px;margin-top:12px;max-width:38ch}
+.footer-contact a{display:inline-flex;align-items:center;gap:8px;margin-bottom:9px}
+.footer-bottom{border-top:1px solid #2c333b;margin-top:36px;padding-top:18px;font-size:13px;color:#8a929b;text-align:center}
+
+/* ---------- WA FLOATING ---------- */
+.wa-float{position:fixed;right:18px;bottom:18px;z-index:60;background:#25d366;color:#fff;font-weight:600;padding:12px 18px;border-radius:50px;box-shadow:0 6px 20px rgba(0,0,0,.18);display:inline-flex;align-items:center;gap:8px}
+.wa-float:hover{color:#fff;filter:brightness(.95)}
+
+/* ---------- RESPONSIVE ---------- */
+@media(max-width:860px){
+  .footer-grid{grid-template-columns:1fr;gap:28px}
+  .hamburger{display:block}
+  .nav{position:absolute;top:68px;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:#fff;border-bottom:1px solid var(--line);max-height:0;overflow:hidden;transition:max-height .25s ease}
+  .nav a{padding:14px 20px;border-top:1px solid var(--line)}
+  .nav a.cta{margin:12px 20px;text-align:center}
+  .nav-toggle:checked ~ .nav{max-height:420px}
+}
+</style>
+</head>
+
+<body>
+<!-- GTM (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MK5773B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- ==================== HEADER ==================== -->
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="/" aria-label="Pelatihan Walet - Beranda">
+      <img src="/wp-content/uploads/2023/02/logo-training-walet-black-1.png" alt="Pelatihan Walet" width="150" height="34">
+    </a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" hidden>
+    <label for="nav-toggle" class="hamburger" aria-label="Buka menu">&#9776;</label>
+    <nav class="nav" aria-label="Navigasi utama">
+      <a href="/">Home</a>
+      <a href="/features">Kelebihan Kami</a>
+      <a href="/blog">Blog</a>
+      <a href="/layanan">Layanan</a>
+      <a href="/kontak" class="cta">Kontak Kami</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ==================== CONTENT ==================== -->
+<main>
+  <div class="wrap content">
+    {{CONTENT}}
+  </div>
+</main>
+
+<!-- ==================== FOOTER ==================== -->
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <h4>Pelatihan Walet</h4>
+        <p>Layanan mentoring &amp; pelatihan pembangunan gedung sarang walet dari jaringan Markas Walet.</p>
+        <div class="footer-contact" style="margin-top:16px">
+          <a href="https://wa.me/6287725260196">&#128241; WhatsApp: +62 877-2526-0196</a><br>
+          <!-- CATATAN: email pelatihanwalet.com belum terverifikasi. Ganti {{CONTACT_EMAIL}}
+               dengan email resmi (default jaringan: sales@markaswalet.com). JANGAN pakai
+               john@doe.com / sales@budidayawalet.net (kontaminasi situs lama). -->
+          <a href="mailto:{{CONTACT_EMAIL}}">&#9993; {{CONTACT_EMAIL}}</a>
+        </div>
+      </div>
+
+      <div>
+        <h4>Menu</h4>
+        <ul class="footer-links">
+          <li><a href="/">Home</a></li>
+          <li><a href="/features">Kelebihan Kami</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/layanan">Layanan</a></li>
+          <li><a href="/kontak">Kontak Kami</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4>Jaringan Markas Walet</h4>
+        <ul class="footer-eco">
+          <li><a href="https://markaswalet.com/" rel="noopener">MarkasWalet</a></li>
+          <li><a href="https://nestone.id/" rel="noopener">NestOne</a></li>
+          <li><a href="https://parfumwalet.com/" rel="noopener">ParfumWalet</a></li>
+          <li><a href="https://gedungwalet.com/" rel="noopener">GedungWalet</a></li>
+          <li><a href="https://cuciwalet.com/" rel="noopener">CuciWalet</a></li>
+          <li><a href="https://seminarmarkaswalet.com/" rel="noopener">SeminarMarkasWalet</a></li>
+        </ul>
+      </div>
+
+    </div>
+    <div class="footer-bottom">
+      &copy; {{YEAR}} Pelatihan Walet &middot; PT Lentera Alam Nusantara. Seluruh hak cipta dilindungi.
+    </div>
+  </div>
+</footer>
+
+<!-- WhatsApp floating -->
+<a class="wa-float" href="https://wa.me/6287725260196" aria-label="Hubungi via WhatsApp">&#128172; Chat Kami</a>
+
+</body>
+</html>
