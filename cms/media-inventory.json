@@ -1,0 +1,21 @@
+{
+ "local_uploads": {
+  "count": 203,
+  "path": "wp-content/uploads/",
+  "size": "224MB"
+ },
+ "external_hotlinks_to_rehome_to_R2": {
+  "1.bp.blogspot.com": 491,
+  "www.suarantb.com": 57,
+  "sp-ao.shortpixel.ai": 54,
+  "www.goodnewsfromindonesia.id": 51,
+  "i.ytimg.com": 48,
+  "osccdn.medcom.id": 48,
+  "disk.mediaindonesia.com": 47,
+  "www.tagar.id": 46,
+  "repack.id": 45,
+  "ekawalet.com": 29,
+  "img.youtube.com": 18
+ },
+ "hotlink_total": 934
+}

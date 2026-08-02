@@ -1,0 +1,2940 @@
+{
+ "template": "kota-training-walet",
+ "count": 489,
+ "items": [
+  {
+   "slug": "training-walet-di-kota-aceh-barat-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-barat-aceh",
+   "daerah": "Aceh Barat",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-barat-daya-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-barat-daya-aceh",
+   "daerah": "Aceh Barat Daya",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-besar-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-besar-aceh",
+   "daerah": "Aceh Besar",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-jaya-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-jaya-aceh",
+   "daerah": "Aceh Jaya",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-selatan-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-selatan-aceh",
+   "daerah": "Aceh Selatan",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-singkil-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-singkil-aceh",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-tamiang-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-tamiang-aceh",
+   "daerah": "Aceh Tamiang",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-tengah-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-tengah-aceh",
+   "daerah": "Aceh Tengah",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-tenggara-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-tenggara-aceh",
+   "daerah": "Aceh Tenggara",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-timur-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-timur-aceh",
+   "daerah": "Aceh Timur",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-aceh-utara-aceh",
+   "url": "/kota/training-walet-di-kota-aceh-utara-aceh",
+   "daerah": "Aceh Utara",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-agam-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-agam-sumatra-barat",
+   "daerah": "Agam",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-alor-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-alor-nusa-tenggara-timur",
+   "daerah": "Alor",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-ambon-maluku",
+   "url": "/kota/training-walet-di-kota-ambon-maluku",
+   "daerah": "Ambon",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-asahan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-asahan-sumatra-utara",
+   "daerah": "Asahan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-asmat-papua",
+   "url": "/kota/training-walet-di-kota-asmat-papua",
+   "daerah": "Asmat",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-badung-bali",
+   "url": "/kota/training-walet-di-kota-badung-bali",
+   "daerah": "Badung",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-balangan-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-balangan-kalimantan-selatan",
+   "daerah": "Balangan",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-balikpapan-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-balikpapan-kalimantan-timur",
+   "daerah": "Balikpapan",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-banda-aceh-aceh",
+   "url": "/kota/training-walet-di-kota-banda-aceh-aceh",
+   "daerah": "Banda Aceh",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-bandar-lampung-lampung",
+   "url": "/kota/training-walet-di-kota-bandar-lampung-lampung",
+   "daerah": "Bandar Lampung",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-bandung-barat-jawa-barat",
+   "url": "/kota/training-walet-di-kota-bandung-barat-jawa-barat",
+   "daerah": "Bandung Barat",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-bandung-jawa-barat",
+   "url": "/kota/training-walet-di-kota-bandung-jawa-barat",
+   "daerah": "Bandung",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-banggai-kepulauan-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-banggai-kepulauan-sulawesi-tengah",
+   "daerah": "Banggai Kepulauan",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-banggai-laut-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-banggai-laut-sulawesi-tengah",
+   "daerah": "Banggai Laut",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-banggai-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-banggai-sulawesi-tengah",
+   "daerah": "Banggai",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-bangka-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-bangka-bangka-belitung",
+   "daerah": "Bangka",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-bangka-barat-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-bangka-barat-bangka-belitung",
+   "daerah": "Bangka Barat",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-bangka-selatan-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-bangka-selatan-bangka-belitung",
+   "daerah": "Bangka Selatan",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-bangka-tengah-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-bangka-tengah-bangka-belitung",
+   "daerah": "Bangka Tengah",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-bangkalan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-bangkalan-jawa-timur",
+   "daerah": "Bangkalan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-bangli-bali",
+   "url": "/kota/training-walet-di-kota-bangli-bali",
+   "daerah": "Bangli",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-banjar-jawa-barat",
+   "url": "/kota/training-walet-di-kota-banjar-jawa-barat",
+   "daerah": "Banjar",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-banjar-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-banjar-kalimantan-selatan",
+   "daerah": "Banjar",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-banjarbaru-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-banjarbaru-kalimantan-selatan",
+   "daerah": "Banjarbaru",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-banjarmasin-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-banjarmasin-kalimantan-selatan",
+   "daerah": "Banjarmasin",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-banjarnegara-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-banjarnegara-jawa-tengah",
+   "daerah": "Banjarnegara",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-bantaeng-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-bantaeng-sulawesi-selatan",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-bantul-yogyakarta",
+   "url": "/kota/training-walet-di-kota-bantul-yogyakarta",
+   "daerah": "Bantul",
+   "provinsi": "Yogyakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-banyuasin-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-banyuasin-sumatra-selatan",
+   "daerah": "Banyuasin",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-banyumas-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-banyumas-jawa-tengah",
+   "daerah": "Banyumas",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-banyuwangi-jawa-timur",
+   "url": "/kota/training-walet-di-kota-banyuwangi-jawa-timur",
+   "daerah": "Banyuwangi",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-barito-kuala-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-barito-kuala-kalimantan-selatan",
+   "daerah": "Barito Kuala",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-barito-selatan-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-barito-selatan-kalimantan-tengah",
+   "daerah": "Barito Selatan",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-barito-timur-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-barito-timur-kalimantan-tengah",
+   "daerah": "Barito Timur",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-barito-utara-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-barito-utara-kalimantan-tengah",
+   "daerah": "Barito Utara",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-barru-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-barru-sulawesi-selatan",
+   "daerah": "Barru",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-batam-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-batam-kepulauan-riau",
+   "daerah": "Batam",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-batang-hari-jambi",
+   "url": "/kota/training-walet-di-kota-batang-hari-jambi",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-batang-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-batang-jawa-tengah",
+   "daerah": "Batang",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-batu-bara-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-batu-bara-sumatra-utara",
+   "daerah": "Batu Bara",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-batu-jawa-timur",
+   "url": "/kota/training-walet-di-kota-batu-jawa-timur",
+   "daerah": "Batu",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-bau-bau-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-bau-bau-sulawesi-tenggara",
+   "daerah": "Bau-Bau",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-bekasi-jawa-barat",
+   "url": "/kota/training-walet-di-kota-bekasi-jawa-barat",
+   "daerah": "Bekasi",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-belitung-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-belitung-bangka-belitung",
+   "daerah": "Belitung",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-belitung-timur-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-belitung-timur-bangka-belitung",
+   "daerah": "Belitung Timur",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-belu-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-belu-nusa-tenggara-timur",
+   "daerah": "Belu",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-bener-meriah-aceh",
+   "url": "/kota/training-walet-di-kota-bener-meriah-aceh",
+   "daerah": "Bener Meriah",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkalis-riau",
+   "url": "/kota/training-walet-di-kota-bengkalis-riau",
+   "daerah": "Bengkalis",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkayang-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-bengkayang-kalimantan-barat",
+   "daerah": "Bengkayang",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkulu-bengkulu",
+   "url": "/kota/training-walet-di-kota-bengkulu-bengkulu",
+   "daerah": "Bengkulu",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkulu-selatan-bengkulu",
+   "url": "/kota/training-walet-di-kota-bengkulu-selatan-bengkulu",
+   "daerah": "Bengkulu Selatan",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkulu-tengah-bengkulu",
+   "url": "/kota/training-walet-di-kota-bengkulu-tengah-bengkulu",
+   "daerah": "Bengkulu Tengah",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-bengkulu-utara-bengkulu",
+   "url": "/kota/training-walet-di-kota-bengkulu-utara-bengkulu",
+   "daerah": "Bengkulu Utara",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-berau-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-berau-kalimantan-timur",
+   "daerah": "Berau",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-biak-numfor-papua",
+   "url": "/kota/training-walet-di-kota-biak-numfor-papua",
+   "daerah": "Biak Numfor",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-bima-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-bima-nusa-tenggara-barat",
+   "daerah": "Bima",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-binjai-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-binjai-sumatra-utara",
+   "daerah": "Binjai",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bintan-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-bintan-kepulauan-riau",
+   "daerah": "Bintan",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-bireuen-aceh",
+   "url": "/kota/training-walet-di-kota-bireuen-aceh",
+   "daerah": "Bireuen",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-bitung-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-bitung-sulawesi-utara",
+   "daerah": "Bitung",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-blitar-jawa-timur",
+   "url": "/kota/training-walet-di-kota-blitar-jawa-timur",
+   "daerah": "Blitar",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-blora-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-blora-jawa-tengah",
+   "daerah": "Blora",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-boalemo-gorontalo",
+   "url": "/kota/training-walet-di-kota-boalemo-gorontalo",
+   "daerah": "Boalemo",
+   "provinsi": "Gorontalo"
+  },
+  {
+   "slug": "training-walet-di-kota-bogor-jawa-barat",
+   "url": "/kota/training-walet-di-kota-bogor-jawa-barat",
+   "daerah": "Bogor",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-bojonegoro-jawa-timur",
+   "url": "/kota/training-walet-di-kota-bojonegoro-jawa-timur",
+   "daerah": "Bojonegoro",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-bolaang-mongondow-selatan-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-bolaang-mongondow-selatan-sulawesi-utara",
+   "daerah": "Bolaang Mongondow Selatan",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bolaang-mongondow-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-bolaang-mongondow-sulawesi-utara",
+   "daerah": "Bolaang Mongondow",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bolaang-mongondow-timur-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-bolaang-mongondow-timur-sulawesi-utara",
+   "daerah": "Bolaang Mongondow Timur",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bolaang-mongondow-utara-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-bolaang-mongondow-utara-sulawesi-utara",
+   "daerah": "Bolaang Mongondow Utara",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bombana-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-bombana-sulawesi-tenggara",
+   "daerah": "Bombana",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-bondowoso-jawa-timur",
+   "url": "/kota/training-walet-di-kota-bondowoso-jawa-timur",
+   "daerah": "Bondowoso",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-bone-bolango-gorontalo",
+   "url": "/kota/training-walet-di-kota-bone-bolango-gorontalo",
+   "daerah": "Bone Bolango",
+   "provinsi": "Gorontalo"
+  },
+  {
+   "slug": "training-walet-di-kota-bone-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-bone-sulawesi-selatan",
+   "daerah": "Bone",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-bontang-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-bontang-kalimantan-timur",
+   "daerah": "Bontang",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-boven-digoel-papua",
+   "url": "/kota/training-walet-di-kota-boven-digoel-papua",
+   "daerah": "Boven Digoel",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-boyolali-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-boyolali-jawa-tengah",
+   "daerah": "Boyolali",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-brebes-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-brebes-jawa-tengah",
+   "daerah": "Brebes",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-bukittinggi-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-bukittinggi-sumatra-barat",
+   "daerah": "Bukittinggi",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-buleleng-bali",
+   "url": "/kota/training-walet-di-kota-buleleng-bali",
+   "daerah": "Buleleng",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-bulukumba-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-bulukumba-sulawesi-selatan",
+   "daerah": "Bulukumba",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-bulungan-kalimantan-utara",
+   "url": "/kota/training-walet-di-kota-bulungan-kalimantan-utara",
+   "daerah": "Bulungan",
+   "provinsi": "Kalimantan Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-bungo-jambi",
+   "url": "/kota/training-walet-di-kota-bungo-jambi",
+   "daerah": "Bungo",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-buol-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-buol-sulawesi-tengah",
+   "daerah": "Buol",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-buru-maluku",
+   "url": "/kota/training-walet-di-kota-buru-maluku",
+   "daerah": "Buru",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-buru-selatan-maluku",
+   "url": "/kota/training-walet-di-kota-buru-selatan-maluku",
+   "daerah": "Buru Selatan",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-buton-selatan-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-buton-selatan-sulawesi-tenggara",
+   "daerah": "Buton Selatan",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-buton-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-buton-sulawesi-tenggara",
+   "daerah": "Buton",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-buton-tengah-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-buton-tengah-sulawesi-tenggara",
+   "daerah": "Buton Tengah",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-buton-utara-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-buton-utara-sulawesi-tenggara",
+   "daerah": "Buton Utara",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-ciamis-jawa-barat",
+   "url": "/kota/training-walet-di-kota-ciamis-jawa-barat",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-cianjur-jawa-barat",
+   "url": "/kota/training-walet-di-kota-cianjur-jawa-barat",
+   "daerah": "Cianjur",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-cilacap-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-cilacap-jawa-tengah",
+   "daerah": "Cilacap",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-cilegon-banten",
+   "url": "/kota/training-walet-di-kota-cilegon-banten",
+   "daerah": "Cilegon",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-cimahi-jawa-barat",
+   "url": "/kota/training-walet-di-kota-cimahi-jawa-barat",
+   "daerah": "Cimahi",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-cirebon-jawa-barat",
+   "url": "/kota/training-walet-di-kota-cirebon-jawa-barat",
+   "daerah": "Cirebon",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-dairi-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-dairi-sumatra-utara",
+   "daerah": "Dairi",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-deiyai-papua",
+   "url": "/kota/training-walet-di-kota-deiyai-papua",
+   "daerah": "Deiyai",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-deli-serdang-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-deli-serdang-sumatra-utara",
+   "daerah": "Deli Serdang",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-demak-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-demak-jawa-tengah",
+   "daerah": "Demak",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-denpasar-bali",
+   "url": "/kota/training-walet-di-kota-denpasar-bali",
+   "daerah": "Denpasar",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-depok-jawa-barat",
+   "url": "/kota/training-walet-di-kota-depok-jawa-barat",
+   "daerah": "Depok",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-dharmasraya-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-dharmasraya-sumatra-barat",
+   "daerah": "Dharmasraya",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-dogiyai-papua",
+   "url": "/kota/training-walet-di-kota-dogiyai-papua",
+   "daerah": "Dogiyai",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-dompu-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-dompu-nusa-tenggara-barat",
+   "daerah": "Dompu",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-donggala-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-donggala-sulawesi-tengah",
+   "daerah": "Donggala",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-dumai-riau",
+   "url": "/kota/training-walet-di-kota-dumai-riau",
+   "daerah": "Dumai",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-empat-lawang-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-empat-lawang-sumatra-selatan",
+   "daerah": "Empat Lawang",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-ende-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-ende-nusa-tenggara-timur",
+   "daerah": "Ende",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-enrekang-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-enrekang-sulawesi-selatan",
+   "daerah": "Enrekang",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-fakfak-papua-barat",
+   "url": "/kota/training-walet-di-kota-fakfak-papua-barat",
+   "daerah": "Fakfak",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-flores-timur-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-flores-timur-nusa-tenggara-timur",
+   "daerah": "Flores Timur",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-garut-jawa-barat",
+   "url": "/kota/training-walet-di-kota-garut-jawa-barat",
+   "daerah": "Garut",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-gayo-lues-aceh",
+   "url": "/kota/training-walet-di-kota-gayo-lues-aceh",
+   "daerah": "Gayo Lues",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-gianyar-bali",
+   "url": "/kota/training-walet-di-kota-gianyar-bali",
+   "daerah": "Gianyar",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-gorontalo-gorontalo",
+   "url": "/kota/training-walet-di-kota-gorontalo-gorontalo",
+   "daerah": "Gorontalo",
+   "provinsi": "Gorontalo"
+  },
+  {
+   "slug": "training-walet-di-kota-gorontalo-utara-gorontalo",
+   "url": "/kota/training-walet-di-kota-gorontalo-utara-gorontalo",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-gowa-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-gowa-sulawesi-selatan",
+   "daerah": "Gowa",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-gresik-jawa-timur",
+   "url": "/kota/training-walet-di-kota-gresik-jawa-timur",
+   "daerah": "Gresik",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-grobogan-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-grobogan-jawa-tengah",
+   "daerah": "Grobogan",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-gunung-kidul-yogyakarta",
+   "url": "/kota/training-walet-di-kota-gunung-kidul-yogyakarta",
+   "daerah": "Gunung Kidul",
+   "provinsi": "Yogyakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-gunung-mas-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-gunung-mas-kalimantan-tengah",
+   "daerah": "Gunung Mas",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-gunungsitoli-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-gunungsitoli-sumatra-utara",
+   "daerah": "Gunungsitoli",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-halmahera-barat-maluku-utara",
+   "url": "/kota/training-walet-di-kota-halmahera-barat-maluku-utara",
+   "daerah": "Halmahera Barat",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-halmahera-selatan-maluku-utara",
+   "url": "/kota/training-walet-di-kota-halmahera-selatan-maluku-utara",
+   "daerah": "Halmahera Selatan",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-halmahera-tengah-maluku-utara",
+   "url": "/kota/training-walet-di-kota-halmahera-tengah-maluku-utara",
+   "daerah": "Halmahera Tengah",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-halmahera-timur-maluku-utara",
+   "url": "/kota/training-walet-di-kota-halmahera-timur-maluku-utara",
+   "daerah": "Halmahera Timur",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-halmahera-utara-maluku-utara",
+   "url": "/kota/training-walet-di-kota-halmahera-utara-maluku-utara",
+   "daerah": "Halmahera Utara",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-hulu-sungai-selatan-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-hulu-sungai-selatan-kalimantan-selatan",
+   "daerah": "Hulu Sungai Selatan",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-hulu-sungai-tengah-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-hulu-sungai-tengah-kalimantan-selatan",
+   "daerah": "Hulu Sungai Tengah",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-hulu-sungai-utara-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-hulu-sungai-utara-kalimantan-selatan",
+   "daerah": "Hulu Sungai Utara",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-humbang-hasundutan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-humbang-hasundutan-sumatra-utara",
+   "daerah": "Humbang Hasundutan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-indragiri-hilir-riau",
+   "url": "/kota/training-walet-di-kota-indragiri-hilir-riau",
+   "daerah": "Indragiri Hilir",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-indragiri-hulu-riau",
+   "url": "/kota/training-walet-di-kota-indragiri-hulu-riau",
+   "daerah": "Indragiri Hulu",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-indramayu-jawa-barat",
+   "url": "/kota/training-walet-di-kota-indramayu-jawa-barat",
+   "daerah": "Indramayu",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-intan-jaya-papua",
+   "url": "/kota/training-walet-di-kota-intan-jaya-papua",
+   "daerah": "Intan Jaya",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-jakarta-barat-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-jakarta-barat-dki-jakarta",
+   "daerah": "Jakarta Barat",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jakarta-pusat-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-jakarta-pusat-dki-jakarta",
+   "daerah": "Jakarta Pusat",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jakarta-selatan-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-jakarta-selatan-dki-jakarta",
+   "daerah": "Jakarta Selatan",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jakarta-timur-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-jakarta-timur-dki-jakarta",
+   "daerah": "Jakarta Timur",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jakarta-utara-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-jakarta-utara-dki-jakarta",
+   "daerah": "Jakarta Utara",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jambi-jambi",
+   "url": "/kota/training-walet-di-kota-jambi-jambi",
+   "daerah": "Jambi",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-jayapura-papua",
+   "url": "/kota/training-walet-di-kota-jayapura-papua",
+   "daerah": "Jayapura",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-jayawijaya-papua",
+   "url": "/kota/training-walet-di-kota-jayawijaya-papua",
+   "daerah": "Jayawijaya",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-jember-jawa-timur",
+   "url": "/kota/training-walet-di-kota-jember-jawa-timur",
+   "daerah": "Jember",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-jembrana-bali",
+   "url": "/kota/training-walet-di-kota-jembrana-bali",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-jeneponto-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-jeneponto-sulawesi-selatan",
+   "daerah": "Jeneponto",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-jepara-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-jepara-jawa-tengah",
+   "daerah": "Jepara",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-jogja-yogyakarta",
+   "url": "/kota/training-walet-di-kota-jogja-yogyakarta",
+   "daerah": "Jogja",
+   "provinsi": "Yogyakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-jombang-jawa-timur",
+   "url": "/kota/training-walet-di-kota-jombang-jawa-timur",
+   "daerah": "Jombang",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-kaimana-papua-barat",
+   "url": "/kota/training-walet-di-kota-kaimana-papua-barat",
+   "daerah": "Kaimana",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kampar-riau",
+   "url": "/kota/training-walet-di-kota-kampar-riau",
+   "daerah": "Kampar",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-kapuas-hulu-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-kapuas-hulu-kalimantan-barat",
+   "daerah": "Kapuas Hulu",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kapuas-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-kapuas-kalimantan-tengah",
+   "daerah": "Kapuas",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-karanganyar-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-karanganyar-jawa-tengah",
+   "daerah": "Karanganyar",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-karangasem-bali",
+   "url": "/kota/training-walet-di-kota-karangasem-bali",
+   "daerah": "Karangasem",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-karawang-jawa-barat",
+   "url": "/kota/training-walet-di-kota-karawang-jawa-barat",
+   "daerah": "Karawang",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-karimun-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-karimun-kepulauan-riau",
+   "daerah": "Karimun",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-karo-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-karo-sumatra-utara",
+   "daerah": "Karo",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-katingan-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-katingan-kalimantan-tengah",
+   "daerah": "Katingan",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kaur-bengkulu",
+   "url": "/kota/training-walet-di-kota-kaur-bengkulu",
+   "daerah": "Kaur",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-kayong-utara-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-kayong-utara-kalimantan-barat",
+   "daerah": "Kayong Utara",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kebumen-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-kebumen-jawa-tengah",
+   "daerah": "Kebumen",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kediri-jawa-timur",
+   "url": "/kota/training-walet-di-kota-kediri-jawa-timur",
+   "daerah": "Kediri",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-keerom-papua",
+   "url": "/kota/training-walet-di-kota-keerom-papua",
+   "daerah": "Keerom",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-kendal-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-kendal-jawa-tengah",
+   "daerah": "Kendal",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kendari-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-kendari-sulawesi-tenggara",
+   "daerah": "Kendari",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-kepahiang-bengkulu",
+   "url": "/kota/training-walet-di-kota-kepahiang-bengkulu",
+   "daerah": "Kepahiang",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-anambas-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-kepulauan-anambas-kepulauan-riau",
+   "daerah": "Kepulauan Anambas",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-aru-maluku",
+   "url": "/kota/training-walet-di-kota-kepulauan-aru-maluku",
+   "daerah": "Kepulauan Aru",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-mentawai-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-kepulauan-mentawai-sumatra-barat",
+   "daerah": "Kepulauan Mentawai",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-meranti-riau",
+   "url": "/kota/training-walet-di-kota-kepulauan-meranti-riau",
+   "daerah": "Kepulauan Meranti",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-sangihe-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-kepulauan-sangihe-sulawesi-utara",
+   "daerah": "Kepulauan Sangihe",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-selayar-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-kepulauan-selayar-sulawesi-selatan",
+   "daerah": "Kepulauan Selayar",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-seribu-dki-jakarta",
+   "url": "/kota/training-walet-di-kota-kepulauan-seribu-dki-jakarta",
+   "daerah": "Kepulauan Seribu",
+   "provinsi": "DKI Jakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-siau-tagulandang-biaro-sitaro-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-kepulauan-siau-tagulandang-biaro-sitaro-sulawesi-utara",
+   "daerah": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-sula-maluku-utara",
+   "url": "/kota/training-walet-di-kota-kepulauan-sula-maluku-utara",
+   "daerah": "Kepulauan Sula",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-talaud-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-kepulauan-talaud-sulawesi-utara",
+   "daerah": "Kepulauan Talaud",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-tanimbar-maluku-tenggara-barat-maluku",
+   "url": "/kota/training-walet-di-kota-kepulauan-tanimbar-maluku-tenggara-barat-maluku",
+   "daerah": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-kepulauan-yapen-papua",
+   "url": "/kota/training-walet-di-kota-kepulauan-yapen-papua",
+   "daerah": "Kepulauan Yapen",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-kerinci-jambi",
+   "url": "/kota/training-walet-di-kota-kerinci-jambi",
+   "daerah": "Kerinci",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-ketapang-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-ketapang-kalimantan-barat",
+   "daerah": "Ketapang",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-klaten-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-klaten-jawa-tengah",
+   "daerah": "Klaten",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-klungkung-bali",
+   "url": "/kota/training-walet-di-kota-klungkung-bali",
+   "daerah": "Klungkung",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-kolaka-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-kolaka-sulawesi-tenggara",
+   "daerah": "Kolaka",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-kolaka-timur-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-kolaka-timur-sulawesi-tenggara",
+   "daerah": "Kolaka Timur",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-kolaka-utara-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-kolaka-utara-sulawesi-tenggara",
+   "daerah": "Kolaka Utara",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-konawe-kepulauan-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-konawe-kepulauan-sulawesi-tenggara",
+   "daerah": "Konawe Kepulauan",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-konawe-selatan-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-konawe-selatan-sulawesi-tenggara",
+   "daerah": "Konawe Selatan",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-konawe-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-konawe-sulawesi-tenggara",
+   "daerah": "Konawe",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-konawe-utara-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-konawe-utara-sulawesi-tenggara",
+   "daerah": "Konawe Utara",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-kotabaru-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-kotabaru-kalimantan-selatan",
+   "daerah": "Kotabaru",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-kotamobagu-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-kotamobagu-sulawesi-utara",
+   "daerah": "Kotamobagu",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-kotawaringin-barat-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-kotawaringin-barat-kalimantan-tengah",
+   "daerah": "Kotawaringin Barat",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kotawaringin-timur-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-kotawaringin-timur-kalimantan-tengah",
+   "daerah": "Kotawaringin Timur",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kuantan-singingi-riau",
+   "url": "/kota/training-walet-di-kota-kuantan-singingi-riau",
+   "daerah": "Kuantan Singingi",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-kubu-raya-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-kubu-raya-kalimantan-barat",
+   "daerah": "Kubu Raya",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kudus-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-kudus-jawa-tengah",
+   "daerah": "Kudus",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-kulon-progo-yogyakarta",
+   "url": "/kota/training-walet-di-kota-kulon-progo-yogyakarta",
+   "daerah": "Kulon Progo",
+   "provinsi": "Yogyakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-kuningan-jawa-barat",
+   "url": "/kota/training-walet-di-kota-kuningan-jawa-barat",
+   "daerah": "Kuningan",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-kupang-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-kupang-nusa-tenggara-timur",
+   "daerah": "Kupang",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-kutai-barat-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-kutai-barat-kalimantan-timur",
+   "daerah": "Kutai Barat",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-kutai-kartanegara-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-kutai-kartanegara-kalimantan-timur",
+   "daerah": "Kutai Kartanegara",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-kutai-timur-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-kutai-timur-kalimantan-timur",
+   "daerah": "Kutai Timur",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-labuhanbatu-selatan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-labuhanbatu-selatan-sumatra-utara",
+   "daerah": "Labuhanbatu Selatan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-labuhanbatu-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-labuhanbatu-sumatra-utara",
+   "daerah": "Labuhanbatu",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-labuhanbatu-utara-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-labuhanbatu-utara-sumatra-utara",
+   "daerah": "Labuhanbatu Utara",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-lahat-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-lahat-sumatra-selatan",
+   "daerah": "Lahat",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-lamandau-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-lamandau-kalimantan-tengah",
+   "daerah": "Lamandau",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-lamongan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-lamongan-jawa-timur",
+   "daerah": "Lamongan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-lampung-barat-lampung",
+   "url": "/kota/training-walet-di-kota-lampung-barat-lampung",
+   "daerah": "Lampung Barat",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-lampung-selatan-lampung",
+   "url": "/kota/training-walet-di-kota-lampung-selatan-lampung",
+   "daerah": "Lampung Selatan",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-lampung-tengah-lampung",
+   "url": "/kota/training-walet-di-kota-lampung-tengah-lampung",
+   "daerah": "Lampung Tengah",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-lampung-timur-lampung",
+   "url": "/kota/training-walet-di-kota-lampung-timur-lampung",
+   "daerah": "Lampung Timur",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-lampung-utara-lampung",
+   "url": "/kota/training-walet-di-kota-lampung-utara-lampung",
+   "daerah": "Lampung Utara",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-landak-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-landak-kalimantan-barat",
+   "daerah": "Landak",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-langkat-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-langkat-sumatra-utara",
+   "daerah": "Langkat",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-langsa-aceh",
+   "url": "/kota/training-walet-di-kota-langsa-aceh",
+   "daerah": "Langsa",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-lanny-jaya-papua",
+   "url": "/kota/training-walet-di-kota-lanny-jaya-papua",
+   "daerah": "Lanny Jaya",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-lebak-banten",
+   "url": "/kota/training-walet-di-kota-lebak-banten",
+   "daerah": "Lebak",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-lebong-bengkulu",
+   "url": "/kota/training-walet-di-kota-lebong-bengkulu",
+   "daerah": "Lebong",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-lembata-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-lembata-nusa-tenggara-timur",
+   "daerah": "Lembata",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-lhokseumawe-aceh",
+   "url": "/kota/training-walet-di-kota-lhokseumawe-aceh",
+   "daerah": "Lhokseumawe",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-lima-puluh-kota-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-lima-puluh-kota-sumatra-barat",
+   "daerah": "Lima Puluh Kota",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-lingga-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-lingga-kepulauan-riau",
+   "daerah": "Lingga",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-lombok-barat-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-lombok-barat-nusa-tenggara-barat",
+   "daerah": "Lombok Barat",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-lombok-tengah-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-lombok-tengah-nusa-tenggara-barat",
+   "daerah": "Lombok Tengah",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-lombok-timur-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-lombok-timur-nusa-tenggara-barat",
+   "daerah": "Lombok Timur",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-lombok-utara-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-lombok-utara-nusa-tenggara-barat",
+   "daerah": "Lombok Utara",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-lubuk-linggau-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-lubuk-linggau-sumatra-selatan",
+   "daerah": "Lubuk Linggau",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-lumajang-jawa-timur",
+   "url": "/kota/training-walet-di-kota-lumajang-jawa-timur",
+   "daerah": "Lumajang",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-luwu-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-luwu-sulawesi-selatan",
+   "daerah": "Luwu",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-luwu-timur-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-luwu-timur-sulawesi-selatan",
+   "daerah": "Luwu Timur",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-luwu-utara-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-luwu-utara-sulawesi-selatan",
+   "daerah": "Luwu Utara",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-madiun-jawa-timur",
+   "url": "/kota/training-walet-di-kota-madiun-jawa-timur",
+   "daerah": "Madiun",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-magelang-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-magelang-jawa-tengah",
+   "daerah": "Magelang",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-magetan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-magetan-jawa-timur",
+   "daerah": "Magetan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-mahakam-ulu-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-mahakam-ulu-kalimantan-timur",
+   "daerah": "Mahakam Ulu",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-majalengka-jawa-barat",
+   "url": "/kota/training-walet-di-kota-majalengka-jawa-barat",
+   "daerah": "Majalengka",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-majene-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-majene-sulawesi-barat",
+   "daerah": "Majene",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-makassar-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-makassar-sulawesi-selatan",
+   "daerah": "Makassar",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-malaka-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-malaka-nusa-tenggara-timur",
+   "daerah": "Malaka",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-malang-jawa-timur",
+   "url": "/kota/training-walet-di-kota-malang-jawa-timur",
+   "daerah": "Malang",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-malinau-kalimantan-utara",
+   "url": "/kota/training-walet-di-kota-malinau-kalimantan-utara",
+   "daerah": "Malinau",
+   "provinsi": "Kalimantan Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-maluku-barat-daya-maluku",
+   "url": "/kota/training-walet-di-kota-maluku-barat-daya-maluku",
+   "daerah": "Maluku Barat Daya",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-maluku-tengah-maluku",
+   "url": "/kota/training-walet-di-kota-maluku-tengah-maluku",
+   "daerah": "Maluku Tengah",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-maluku-tenggara-maluku",
+   "url": "/kota/training-walet-di-kota-maluku-tenggara-maluku",
+   "daerah": "Maluku Tenggara",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-mamasa-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-mamasa-sulawesi-barat",
+   "daerah": "Mamasa",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-mamberamo-raya-papua",
+   "url": "/kota/training-walet-di-kota-mamberamo-raya-papua",
+   "daerah": "Mamberamo Raya",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-mamberamo-tengah-papua",
+   "url": "/kota/training-walet-di-kota-mamberamo-tengah-papua",
+   "daerah": "Mamberamo Tengah",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-mamuju-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-mamuju-sulawesi-barat",
+   "daerah": "Mamuju",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-mamuju-tengah-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-mamuju-tengah-sulawesi-barat",
+   "daerah": "Mamuju Tengah",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-manado-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-manado-sulawesi-utara",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-mandailing-natal-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-mandailing-natal-sumatra-utara",
+   "daerah": "Mandailing Natal",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-manggarai-barat-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-manggarai-barat-nusa-tenggara-timur",
+   "daerah": "Manggarai Barat",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-manggarai-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-manggarai-nusa-tenggara-timur",
+   "daerah": "Manggarai",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-manggarai-timur-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-manggarai-timur-nusa-tenggara-timur",
+   "daerah": "Manggarai Timur",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-manokwari-papua-barat",
+   "url": "/kota/training-walet-di-kota-manokwari-papua-barat",
+   "daerah": "Manokwari",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-manokwari-selatan-papua-barat",
+   "url": "/kota/training-walet-di-kota-manokwari-selatan-papua-barat",
+   "daerah": "Manokwari Selatan",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-mappi-papua",
+   "url": "/kota/training-walet-di-kota-mappi-papua",
+   "daerah": "Mappi",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-maros-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-maros-sulawesi-selatan",
+   "daerah": "Maros",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-mataram-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-mataram-nusa-tenggara-barat",
+   "daerah": "Mataram",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-maybrat-papua-barat",
+   "url": "/kota/training-walet-di-kota-maybrat-papua-barat",
+   "daerah": "Maybrat",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-medan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-medan-sumatra-utara",
+   "daerah": "Medan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-melawi-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-melawi-kalimantan-barat",
+   "daerah": "Melawi",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-mempawah-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-mempawah-kalimantan-barat",
+   "daerah": "Mempawah",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-merangin-jambi",
+   "url": "/kota/training-walet-di-kota-merangin-jambi",
+   "daerah": "Merangin",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-merauke-papua",
+   "url": "/kota/training-walet-di-kota-merauke-papua",
+   "daerah": "Merauke",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-mesuji-lampung",
+   "url": "/kota/training-walet-di-kota-mesuji-lampung",
+   "daerah": "Mesuji",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-metro-lampung",
+   "url": "/kota/training-walet-di-kota-metro-lampung",
+   "daerah": "Metro",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-mimika-papua",
+   "url": "/kota/training-walet-di-kota-mimika-papua",
+   "daerah": "Mimika",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-minahasa-selatan-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-minahasa-selatan-sulawesi-utara",
+   "daerah": "Minahasa Selatan",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-minahasa-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-minahasa-sulawesi-utara",
+   "daerah": "Minahasa",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-minahasa-tenggara-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-minahasa-tenggara-sulawesi-utara",
+   "daerah": "Minahasa Tenggara",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-minahasa-utara-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-minahasa-utara-sulawesi-utara",
+   "daerah": "Minahasa Utara",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-mojokerto-jawa-timur",
+   "url": "/kota/training-walet-di-kota-mojokerto-jawa-timur",
+   "daerah": "Mojokerto",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-morowali-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-morowali-sulawesi-tengah",
+   "daerah": "Morowali",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-morowali-utara-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-morowali-utara-sulawesi-tengah",
+   "daerah": "Morowali Utara",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-muara-enim-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-muara-enim-sumatra-selatan",
+   "daerah": "Muara Enim",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-muaro-jambi-jambi",
+   "url": "/kota/training-walet-di-kota-muaro-jambi-jambi",
+   "daerah": "Muaro Jambi",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-muko-muko-bengkulu",
+   "url": "/kota/training-walet-di-kota-muko-muko-bengkulu",
+   "daerah": "Muko Muko",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-muna-barat-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-muna-barat-sulawesi-tenggara",
+   "daerah": "Muna Barat",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-muna-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-muna-sulawesi-tenggara",
+   "daerah": "Muna",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-murung-raya-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-murung-raya-kalimantan-tengah",
+   "daerah": "Murung Raya",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-musi-banyuasin-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-musi-banyuasin-sumatra-selatan",
+   "daerah": "Musi Banyuasin",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-musi-rawas-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-musi-rawas-sumatra-selatan",
+   "daerah": "Musi Rawas",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-musi-rawas-utara-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-musi-rawas-utara-sumatra-selatan",
+   "daerah": "Musi Rawas Utara",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-nabire-papua",
+   "url": "/kota/training-walet-di-kota-nabire-papua",
+   "daerah": "Nabire",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-nagan-raya-aceh",
+   "url": "/kota/training-walet-di-kota-nagan-raya-aceh",
+   "daerah": "Nagan Raya",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-nagekeo-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-nagekeo-nusa-tenggara-timur",
+   "daerah": "Nagekeo",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-natuna-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-natuna-kepulauan-riau",
+   "daerah": "Natuna",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-nduga-papua",
+   "url": "/kota/training-walet-di-kota-nduga-papua",
+   "daerah": "Nduga",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-ngada-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-ngada-nusa-tenggara-timur",
+   "daerah": "Ngada",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-nganjuk-jawa-timur",
+   "url": "/kota/training-walet-di-kota-nganjuk-jawa-timur",
+   "daerah": "Nganjuk",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-ngawi-jawa-timur",
+   "url": "/kota/training-walet-di-kota-ngawi-jawa-timur",
+   "daerah": "Ngawi",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-nias-barat-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-nias-barat-sumatra-utara",
+   "daerah": "Nias Barat",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-nias-selatan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-nias-selatan-sumatra-utara",
+   "daerah": "Nias Selatan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-nias-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-nias-sumatra-utara",
+   "daerah": "Nias",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-nias-utara-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-nias-utara-sumatra-utara",
+   "daerah": "Nias Utara",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-nunukan-kalimantan-utara",
+   "url": "/kota/training-walet-di-kota-nunukan-kalimantan-utara",
+   "daerah": "Nunukan",
+   "provinsi": "Kalimantan Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-ogan-ilir-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-ogan-ilir-sumatra-selatan",
+   "daerah": "Ogan Ilir",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-ogan-komering-ilir-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-ogan-komering-ilir-sumatra-selatan",
+   "daerah": "Ogan Komering Ilir",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-ogan-komering-ulu-selatan-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-ogan-komering-ulu-selatan-sumatra-selatan",
+   "daerah": "Ogan Komering Ulu Selatan",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-ogan-komering-ulu-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-ogan-komering-ulu-sumatra-selatan",
+   "daerah": "Ogan Komering Ulu",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-ogan-komering-ulu-timur-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-ogan-komering-ulu-timur-sumatra-selatan",
+   "daerah": "Ogan Komering Ulu Timur",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pacitan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-pacitan-jawa-timur",
+   "daerah": "Pacitan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-lawas-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-padang-lawas-sumatra-utara",
+   "daerah": "Padang Lawas",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-lawas-utara-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-padang-lawas-utara-sumatra-utara",
+   "daerah": "Padang Lawas Utara",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-panjang-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-padang-panjang-sumatra-barat",
+   "daerah": "Padang Panjang",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-pariaman-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-padang-pariaman-sumatra-barat",
+   "daerah": "Padang Pariaman",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-sidempuan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-padang-sidempuan-sumatra-utara",
+   "daerah": "Padang Sidempuan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-padang-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-padang-sumatra-barat",
+   "daerah": "Padang",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pagar-alam-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-pagar-alam-sumatra-selatan",
+   "daerah": "Pagar Alam",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pakpak-bharat-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-pakpak-bharat-sumatra-utara",
+   "daerah": "Pakpak Bharat",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-palangka-raya-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-palangka-raya-kalimantan-tengah",
+   "daerah": "Palangka Raya",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-palembang-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-palembang-sumatra-selatan",
+   "daerah": "Palembang",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-palopo-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-palopo-sulawesi-selatan",
+   "daerah": "Palopo",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-palu-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-palu-sulawesi-tengah",
+   "daerah": "Palu",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-pamekasan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-pamekasan-jawa-timur",
+   "daerah": "Pamekasan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-pandeglang-banten",
+   "url": "/kota/training-walet-di-kota-pandeglang-banten",
+   "daerah": "Pandeglang",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-pangandaran-jawa-barat",
+   "url": "/kota/training-walet-di-kota-pangandaran-jawa-barat",
+   "daerah": "Pangandaran",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pangkajene-kepulauan-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-pangkajene-kepulauan-sulawesi-selatan",
+   "daerah": "Pangkajene Kepulauan",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pangkal-pinang-bangka-belitung",
+   "url": "/kota/training-walet-di-kota-pangkal-pinang-bangka-belitung",
+   "daerah": "Pangkal Pinang",
+   "provinsi": "Bangka Belitung"
+  },
+  {
+   "slug": "training-walet-di-kota-paniai-papua",
+   "url": "/kota/training-walet-di-kota-paniai-papua",
+   "daerah": "Paniai",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-parepare-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-parepare-sulawesi-selatan",
+   "daerah": "Parepare",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pariaman-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-pariaman-sumatra-barat",
+   "daerah": "Pariaman",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-parigi-moutong-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-parigi-moutong-sulawesi-tengah",
+   "daerah": "Parigi Moutong",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-pasaman-barat-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-pasaman-barat-sumatra-barat",
+   "daerah": "Pasaman Barat",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pasaman-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-pasaman-sumatra-barat",
+   "daerah": "Pasaman",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pasangkayu-mamuju-utara-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-pasangkayu-mamuju-utara-sulawesi-barat",
+   "daerah": "Pasangkayu (Mamuju Utara)",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-paser-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-paser-kalimantan-timur",
+   "daerah": "Paser",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-pasuruan-jawa-timur",
+   "url": "/kota/training-walet-di-kota-pasuruan-jawa-timur",
+   "daerah": "Pasuruan",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-pati-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-pati-jawa-tengah",
+   "daerah": "Pati",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-payakumbuh-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-payakumbuh-sumatra-barat",
+   "daerah": "Payakumbuh",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pegunungan-arfak-papua-barat",
+   "url": "/kota/training-walet-di-kota-pegunungan-arfak-papua-barat",
+   "daerah": "Pegunungan Arfak",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pegunungan-bintang-papua",
+   "url": "/kota/training-walet-di-kota-pegunungan-bintang-papua",
+   "daerah": "Pegunungan Bintang",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-pekalongan-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-pekalongan-jawa-tengah",
+   "daerah": "Pekalongan",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-pekanbaru-riau",
+   "url": "/kota/training-walet-di-kota-pekanbaru-riau",
+   "daerah": "Pekanbaru",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-pelalawan-riau",
+   "url": "/kota/training-walet-di-kota-pelalawan-riau",
+   "daerah": "Pelalawan",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-pemalang-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-pemalang-jawa-tengah",
+   "daerah": "Pemalang",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-pematang-siantar-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-pematang-siantar-sumatra-utara",
+   "daerah": "Pematang Siantar",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-penajam-paser-utara-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-penajam-paser-utara-kalimantan-timur",
+   "daerah": "Penajam Paser Utara",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-penukal-abab-lematang-ilir-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-penukal-abab-lematang-ilir-sumatra-selatan",
+   "daerah": "Penukal Abab Lematang Ilir",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pesawaran-lampung",
+   "url": "/kota/training-walet-di-kota-pesawaran-lampung",
+   "daerah": "Pesawaran",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-pesisir-barat-lampung",
+   "url": "/kota/training-walet-di-kota-pesisir-barat-lampung",
+   "daerah": "Pesisir Barat",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-pesisir-selatan-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-pesisir-selatan-sumatra-barat",
+   "daerah": "Pesisir Selatan",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-pidie-aceh",
+   "url": "/kota/training-walet-di-kota-pidie-aceh",
+   "daerah": "Pidie",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-pidie-jaya-aceh",
+   "url": "/kota/training-walet-di-kota-pidie-jaya-aceh",
+   "daerah": "Pidie Jaya",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-pinrang-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-pinrang-sulawesi-selatan",
+   "daerah": "Pinrang",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pohuwato-gorontalo",
+   "url": "/kota/training-walet-di-kota-pohuwato-gorontalo",
+   "daerah": "Pohuwato",
+   "provinsi": "Gorontalo"
+  },
+  {
+   "slug": "training-walet-di-kota-polewali-mandar-sulawesi-barat",
+   "url": "/kota/training-walet-di-kota-polewali-mandar-sulawesi-barat",
+   "daerah": "Polewali Mandar",
+   "provinsi": "Sulawesi Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-ponorogo-jawa-timur",
+   "url": "/kota/training-walet-di-kota-ponorogo-jawa-timur",
+   "daerah": "Ponorogo",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-pontianak-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-pontianak-kalimantan-barat",
+   "daerah": "Pontianak",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-poso-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-poso-sulawesi-tengah",
+   "daerah": "Poso",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-prabumulih-sumatra-selatan",
+   "url": "/kota/training-walet-di-kota-prabumulih-sumatra-selatan",
+   "daerah": "Prabumulih",
+   "provinsi": "Sumatra Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-pringsewu-lampung",
+   "url": "/kota/training-walet-di-kota-pringsewu-lampung",
+   "daerah": "Pringsewu",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-probolinggo-jawa-timur",
+   "url": "/kota/training-walet-di-kota-probolinggo-jawa-timur",
+   "daerah": "Probolinggo",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-pulang-pisau-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-pulang-pisau-kalimantan-tengah",
+   "daerah": "Pulang Pisau",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-pulau-morotai-maluku-utara",
+   "url": "/kota/training-walet-di-kota-pulau-morotai-maluku-utara",
+   "daerah": "Pulau Morotai",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-pulau-taliabu-maluku-utara",
+   "url": "/kota/training-walet-di-kota-pulau-taliabu-maluku-utara",
+   "daerah": "Pulau Taliabu",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-puncak-jaya-papua",
+   "url": "/kota/training-walet-di-kota-puncak-jaya-papua",
+   "daerah": "Puncak Jaya",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-puncak-papua",
+   "url": "/kota/training-walet-di-kota-puncak-papua",
+   "daerah": "Puncak",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-purbalingga-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-purbalingga-jawa-tengah",
+   "daerah": "Purbalingga",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-purwakarta-jawa-barat",
+   "url": "/kota/training-walet-di-kota-purwakarta-jawa-barat",
+   "daerah": "Purwakarta",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-purworejo-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-purworejo-jawa-tengah",
+   "daerah": "Purworejo",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-raja-ampat-papua-barat",
+   "url": "/kota/training-walet-di-kota-raja-ampat-papua-barat",
+   "daerah": "Raja Ampat",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-rejang-lebong-bengkulu",
+   "url": "/kota/training-walet-di-kota-rejang-lebong-bengkulu",
+   "daerah": "Rejang Lebong",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-rembang-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-rembang-jawa-tengah",
+   "daerah": "Rembang",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-rokan-hilir-riau",
+   "url": "/kota/training-walet-di-kota-rokan-hilir-riau",
+   "daerah": "Rokan Hilir",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-rokan-hulu-riau",
+   "url": "/kota/training-walet-di-kota-rokan-hulu-riau",
+   "daerah": "Rokan Hulu",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-rote-ndao-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-rote-ndao-nusa-tenggara-timur",
+   "daerah": "Rote Ndao",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sabang-aceh",
+   "url": "/kota/training-walet-di-kota-sabang-aceh",
+   "daerah": "Sabang",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-sabu-raijua-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sabu-raijua-nusa-tenggara-timur",
+   "daerah": "Sabu Raijua",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-salatiga-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-salatiga-jawa-tengah",
+   "daerah": "Salatiga",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-samarinda-kalimantan-timur",
+   "url": "/kota/training-walet-di-kota-samarinda-kalimantan-timur",
+   "daerah": "Samarinda",
+   "provinsi": "Kalimantan Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sambas-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-sambas-kalimantan-barat",
+   "daerah": "Sambas",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-samosir-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-samosir-sumatra-utara",
+   "daerah": "Samosir",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-sampang-jawa-timur",
+   "url": "/kota/training-walet-di-kota-sampang-jawa-timur",
+   "daerah": "Sampang",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sanggau-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-sanggau-kalimantan-barat",
+   "daerah": "Sanggau",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sarmi-papua",
+   "url": "/kota/training-walet-di-kota-sarmi-papua",
+   "daerah": "Sarmi",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-sarolangun-jambi",
+   "url": "/kota/training-walet-di-kota-sarolangun-jambi",
+   "daerah": "Sarolangun",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-sawah-lunto-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-sawah-lunto-sumatra-barat",
+   "daerah": "Sawah Lunto",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sekadau-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-sekadau-kalimantan-barat",
+   "daerah": "Sekadau",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-seluma-bengkulu",
+   "url": "/kota/training-walet-di-kota-seluma-bengkulu",
+   "daerah": "Seluma",
+   "provinsi": "Bengkulu"
+  },
+  {
+   "slug": "training-walet-di-kota-semarang-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-semarang-jawa-tengah",
+   "daerah": "Semarang",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-seram-bagian-barat-maluku",
+   "url": "/kota/training-walet-di-kota-seram-bagian-barat-maluku",
+   "daerah": "Seram Bagian Barat",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-seram-bagian-timur-maluku",
+   "url": "/kota/training-walet-di-kota-seram-bagian-timur-maluku",
+   "daerah": "Seram Bagian Timur",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-serang-banten",
+   "url": "/kota/training-walet-di-kota-serang-banten",
+   "daerah": "Serang",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-serdang-bedagai-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-serdang-bedagai-sumatra-utara",
+   "daerah": "Serdang Bedagai",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-seruyan-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-seruyan-kalimantan-tengah",
+   "daerah": "Seruyan",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-siak-riau",
+   "url": "/kota/training-walet-di-kota-siak-riau",
+   "daerah": "Siak",
+   "provinsi": "Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-sibolga-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-sibolga-sumatra-utara",
+   "daerah": "Sibolga",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-sidenreng-rappang-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-sidenreng-rappang-sulawesi-selatan",
+   "daerah": "Sidenreng Rappang",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-sidoarjo-jawa-timur",
+   "url": "/kota/training-walet-di-kota-sidoarjo-jawa-timur",
+   "daerah": "Sidoarjo",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sigi-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-sigi-sulawesi-tengah",
+   "daerah": "Sigi",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-sijunjung-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-sijunjung-sumatra-barat",
+   "daerah": "Sijunjung",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sikka-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sikka-nusa-tenggara-timur",
+   "daerah": "Sikka",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-simalungun-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-simalungun-sumatra-utara",
+   "daerah": "Simalungun",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-simeulue-aceh",
+   "url": "/kota/training-walet-di-kota-simeulue-aceh",
+   "daerah": "Simeulue",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-singkawang-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-singkawang-kalimantan-barat",
+   "daerah": "Singkawang",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sinjai-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-sinjai-sulawesi-selatan",
+   "daerah": "Sinjai",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-sintang-kalimantan-barat",
+   "url": "/kota/training-walet-di-kota-sintang-kalimantan-barat",
+   "daerah": "Sintang",
+   "provinsi": "Kalimantan Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-situbondo-jawa-timur",
+   "url": "/kota/training-walet-di-kota-situbondo-jawa-timur",
+   "daerah": "Situbondo",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sleman-yogyakarta",
+   "url": "/kota/training-walet-di-kota-sleman-yogyakarta",
+   "daerah": "Sleman",
+   "provinsi": "Yogyakarta"
+  },
+  {
+   "slug": "training-walet-di-kota-solok-selatan-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-solok-selatan-sumatra-barat",
+   "daerah": "Solok Selatan",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-solok-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-solok-sumatra-barat",
+   "daerah": "Solok",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-soppeng-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-soppeng-sulawesi-selatan",
+   "daerah": "Soppeng",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-sorong-papua-barat",
+   "url": "/kota/training-walet-di-kota-sorong-papua-barat",
+   "daerah": "Sorong",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sorong-selatan-papua-barat",
+   "url": "/kota/training-walet-di-kota-sorong-selatan-papua-barat",
+   "daerah": "Sorong Selatan",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sragen-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-sragen-jawa-tengah",
+   "daerah": "Sragen",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-subang-jawa-barat",
+   "url": "/kota/training-walet-di-kota-subang-jawa-barat",
+   "daerah": "Subang",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-subulussalam-aceh",
+   "url": "/kota/training-walet-di-kota-subulussalam-aceh",
+   "daerah": "Subulussalam",
+   "provinsi": "Aceh"
+  },
+  {
+   "slug": "training-walet-di-kota-sukabumi-jawa-barat",
+   "url": "/kota/training-walet-di-kota-sukabumi-jawa-barat",
+   "daerah": "Sukabumi",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sukamara-kalimantan-tengah",
+   "url": "/kota/training-walet-di-kota-sukamara-kalimantan-tengah",
+   "daerah": "Sukamara",
+   "provinsi": "Kalimantan Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-sukoharjo-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-sukoharjo-jawa-tengah",
+   "daerah": "Sukoharjo",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-sumba-barat-daya-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sumba-barat-daya-nusa-tenggara-timur",
+   "daerah": "Sumba Barat Daya",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sumba-barat-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sumba-barat-nusa-tenggara-timur",
+   "daerah": "Sumba Barat",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sumba-tengah-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sumba-tengah-nusa-tenggara-timur",
+   "daerah": "Sumba Tengah",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sumba-timur-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-sumba-timur-nusa-tenggara-timur",
+   "daerah": "Sumba Timur",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sumbawa-barat-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-sumbawa-barat-nusa-tenggara-barat",
+   "daerah": "Sumbawa Barat",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sumbawa-nusa-tenggara-barat",
+   "url": "/kota/training-walet-di-kota-sumbawa-nusa-tenggara-barat",
+   "daerah": "Sumbawa",
+   "provinsi": "Nusa Tenggara Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sumedang-jawa-barat",
+   "url": "/kota/training-walet-di-kota-sumedang-jawa-barat",
+   "daerah": "Sumedang",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-sumenep-jawa-timur",
+   "url": "/kota/training-walet-di-kota-sumenep-jawa-timur",
+   "daerah": "Sumenep",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-sungaipenuh-jambi",
+   "url": "/kota/training-walet-di-kota-sungaipenuh-jambi",
+   "daerah": "Sungaipenuh",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-supiori-papua",
+   "url": "/kota/training-walet-di-kota-supiori-papua",
+   "daerah": "Supiori",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-surabaya-jawa-timur",
+   "url": "/kota/training-walet-di-kota-surabaya-jawa-timur",
+   "daerah": "Surabaya",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-surakarta-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-surakarta-jawa-tengah",
+   "daerah": "Surakarta",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-tabalong-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-tabalong-kalimantan-selatan",
+   "daerah": "Tabalong",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tabanan-bali",
+   "url": "/kota/training-walet-di-kota-tabanan-bali",
+   "daerah": "Tabanan",
+   "provinsi": "Bali"
+  },
+  {
+   "slug": "training-walet-di-kota-takalar-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-takalar-sulawesi-selatan",
+   "daerah": "Takalar",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tambrauw-papua-barat",
+   "url": "/kota/training-walet-di-kota-tambrauw-papua-barat",
+   "daerah": "Tambrauw",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-tana-tidung-kalimantan-utara",
+   "url": "/kota/training-walet-di-kota-tana-tidung-kalimantan-utara",
+   "daerah": "Tana Tidung",
+   "provinsi": "Kalimantan Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tana-toraja-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-tana-toraja-sulawesi-selatan",
+   "daerah": "Tana Toraja",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tanah-bumbu-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-tanah-bumbu-kalimantan-selatan",
+   "daerah": "Tanah Bumbu",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tanah-datar-sumatra-barat",
+   "url": "/kota/training-walet-di-kota-tanah-datar-sumatra-barat",
+   "daerah": "Tanah Datar",
+   "provinsi": "Sumatra Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-tanah-laut-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-tanah-laut-kalimantan-selatan",
+   "daerah": "Tanah Laut",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tangerang-banten",
+   "url": "/kota/training-walet-di-kota-tangerang-banten",
+   "daerah": "Tangerang",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-tangerang-selatan-banten",
+   "url": "/kota/training-walet-di-kota-tangerang-selatan-banten",
+   "daerah": "Tangerang Selatan",
+   "provinsi": "Banten"
+  },
+  {
+   "slug": "training-walet-di-kota-tanggamus-lampung",
+   "url": "/kota/training-walet-di-kota-tanggamus-lampung",
+   "daerah": "Tanggamus",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-tanjung-balai-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-tanjung-balai-sumatra-utara",
+   "daerah": "Tanjung Balai",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tanjung-jabung-barat-jambi",
+   "url": "/kota/training-walet-di-kota-tanjung-jabung-barat-jambi",
+   "daerah": "Tanjung Jabung Barat",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-tanjung-jabung-timur-jambi",
+   "url": "/kota/training-walet-di-kota-tanjung-jabung-timur-jambi",
+   "daerah": "Tanjung Jabung Timur",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-tanjung-pinang-kepulauan-riau",
+   "url": "/kota/training-walet-di-kota-tanjung-pinang-kepulauan-riau",
+   "daerah": "Tanjung Pinang",
+   "provinsi": "Kepulauan Riau"
+  },
+  {
+   "slug": "training-walet-di-kota-tapanuli-selatan-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-tapanuli-selatan-sumatra-utara",
+   "daerah": "Tapanuli Selatan",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tapanuli-tengah-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-tapanuli-tengah-sumatra-utara",
+   "daerah": "Tapanuli Tengah",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tapanuli-utara-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-tapanuli-utara-sumatra-utara",
+   "daerah": "Tapanuli Utara",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tapin-kalimantan-selatan",
+   "url": "/kota/training-walet-di-kota-tapin-kalimantan-selatan",
+   "daerah": "Tapin",
+   "provinsi": "Kalimantan Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-tarakan-kalimantan-utara",
+   "url": "/kota/training-walet-di-kota-tarakan-kalimantan-utara",
+   "daerah": "Tarakan",
+   "provinsi": "Kalimantan Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tasikmalaya-jawa-barat",
+   "url": "/kota/training-walet-di-kota-tasikmalaya-jawa-barat",
+   "daerah": "Tasikmalaya",
+   "provinsi": "Jawa Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-tebing-tinggi-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-tebing-tinggi-sumatra-utara",
+   "daerah": "Tebing Tinggi",
+   "provinsi": "Sumatra Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tebo-jambi",
+   "url": "/kota/training-walet-di-kota-tebo-jambi",
+   "daerah": "Tebo",
+   "provinsi": "Jambi"
+  },
+  {
+   "slug": "training-walet-di-kota-tegal-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-tegal-jawa-tengah",
+   "daerah": "Tegal",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-teluk-bintuni-papua-barat",
+   "url": "/kota/training-walet-di-kota-teluk-bintuni-papua-barat",
+   "daerah": "Teluk Bintuni",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-teluk-wondama-papua-barat",
+   "url": "/kota/training-walet-di-kota-teluk-wondama-papua-barat",
+   "daerah": "Teluk Wondama",
+   "provinsi": "Papua Barat"
+  },
+  {
+   "slug": "training-walet-di-kota-temanggung-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-temanggung-jawa-tengah",
+   "daerah": "Temanggung",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-ternate-maluku-utara",
+   "url": "/kota/training-walet-di-kota-ternate-maluku-utara",
+   "daerah": "Ternate",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-tidore-kepulauan-maluku-utara",
+   "url": "/kota/training-walet-di-kota-tidore-kepulauan-maluku-utara",
+   "daerah": "Tidore Kepulauan",
+   "provinsi": "Maluku Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-timor-tengah-selatan-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-timor-tengah-selatan-nusa-tenggara-timur",
+   "daerah": "Timor Tengah Selatan",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-timor-tengah-utara-nusa-tenggara-timur",
+   "url": "/kota/training-walet-di-kota-timor-tengah-utara-nusa-tenggara-timur",
+   "daerah": "Timor Tengah Utara",
+   "provinsi": "Nusa Tenggara Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-toba-samosir-sumatra-utara",
+   "url": "/kota/training-walet-di-kota-toba-samosir-sumatra-utara",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-tojo-una-una-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-tojo-una-una-sulawesi-tengah",
+   "daerah": "Tojo Una-Una",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-toli-toli-sulawesi-tengah",
+   "url": "/kota/training-walet-di-kota-toli-toli-sulawesi-tengah",
+   "daerah": "Toli-Toli",
+   "provinsi": "Sulawesi Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-tolikara-papua",
+   "url": "/kota/training-walet-di-kota-tolikara-papua",
+   "daerah": "",
+   "provinsi": ""
+  },
+  {
+   "slug": "training-walet-di-kota-tomohon-sulawesi-utara",
+   "url": "/kota/training-walet-di-kota-tomohon-sulawesi-utara",
+   "daerah": "Tomohon",
+   "provinsi": "Sulawesi Utara"
+  },
+  {
+   "slug": "training-walet-di-kota-toraja-utara-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-toraja-utara-sulawesi-selatan",
+   "daerah": "Toraja Utara",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-trenggalek-jawa-timur",
+   "url": "/kota/training-walet-di-kota-trenggalek-jawa-timur",
+   "daerah": "Trenggalek",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-tual-maluku",
+   "url": "/kota/training-walet-di-kota-tual-maluku",
+   "daerah": "Tual",
+   "provinsi": "Maluku"
+  },
+  {
+   "slug": "training-walet-di-kota-tuban-jawa-timur",
+   "url": "/kota/training-walet-di-kota-tuban-jawa-timur",
+   "daerah": "Tuban",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-tulang-bawang-barat-lampung",
+   "url": "/kota/training-walet-di-kota-tulang-bawang-barat-lampung",
+   "daerah": "Tulang Bawang Barat",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-tulang-bawang-lampung",
+   "url": "/kota/training-walet-di-kota-tulang-bawang-lampung",
+   "daerah": "Tulang Bawang",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-tulungagung-jawa-timur",
+   "url": "/kota/training-walet-di-kota-tulungagung-jawa-timur",
+   "daerah": "Tulungagung",
+   "provinsi": "Jawa Timur"
+  },
+  {
+   "slug": "training-walet-di-kota-wajo-sulawesi-selatan",
+   "url": "/kota/training-walet-di-kota-wajo-sulawesi-selatan",
+   "daerah": "Wajo",
+   "provinsi": "Sulawesi Selatan"
+  },
+  {
+   "slug": "training-walet-di-kota-wakatobi-sulawesi-tenggara",
+   "url": "/kota/training-walet-di-kota-wakatobi-sulawesi-tenggara",
+   "daerah": "Wakatobi",
+   "provinsi": "Sulawesi Tenggara"
+  },
+  {
+   "slug": "training-walet-di-kota-waropen-papua",
+   "url": "/kota/training-walet-di-kota-waropen-papua",
+   "daerah": "Waropen",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-way-kanan-lampung",
+   "url": "/kota/training-walet-di-kota-way-kanan-lampung",
+   "daerah": "Way Kanan",
+   "provinsi": "Lampung"
+  },
+  {
+   "slug": "training-walet-di-kota-wonogiri-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-wonogiri-jawa-tengah",
+   "daerah": "Wonogiri",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-wonosobo-jawa-tengah",
+   "url": "/kota/training-walet-di-kota-wonosobo-jawa-tengah",
+   "daerah": "Wonosobo",
+   "provinsi": "Jawa Tengah"
+  },
+  {
+   "slug": "training-walet-di-kota-yahukimo-papua",
+   "url": "/kota/training-walet-di-kota-yahukimo-papua",
+   "daerah": "Yahukimo",
+   "provinsi": "Papua"
+  },
+  {
+   "slug": "training-walet-di-kota-yalimo-papua",
+   "url": "/kota/training-walet-di-kota-yalimo-papua",
+   "daerah": "Yalimo",
+   "provinsi": "Papua"
+  }
+ ]
+}
