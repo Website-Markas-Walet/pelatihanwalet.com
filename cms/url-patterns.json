@@ -40,7 +40,7 @@
   {
    "type": "sitemap",
    "pattern": "/*.xml",
-   "example": "sitemap_index.xml, post-sitemap.xml, page-sitemap.xml, kota1.xml..kota3.xml"
+   "example": "sitemap_index.xml (+ salinan all.xml) -> post.xml, page.xml, desain.xml, kota1.xml..kota3.xml"
   }
  ]
 }
